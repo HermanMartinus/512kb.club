@@ -273,6 +273,11 @@
   size: 249
   last_checked: 2022-05-15
 
+- domain: bearblog.dev
+  url: https://bearblog.dev
+  size: 8.2
+  last_checked: 2022-09-12
+
 - domain: bebyx.co.ua
   url: https://bebyx.co.ua/
   size: 8.5
@@ -1087,7 +1092,12 @@
   url: https://heavymetalmusic.reviews/
   size: 21.8
   last_checked: 2022-04-29
-  
+
+- domain: herman.bearblog.dev
+  url: https://herman.bearblog.dev/
+  size: 6.5
+  last_checked: 2022-09-12
+
 - domain: her.st
   url: https://her.st/
   size: 128
